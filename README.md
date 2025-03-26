@@ -66,6 +66,9 @@ python tetris.py
 
 ---
 
+![image](https://github.com/user-attachments/assets/ef23e7ee-79e0-4241-ab5d-b55d7fec7704)
+
+
 ## ⚙️ 설정 화면
 
 - 게임 속도를 1~10 사이에서 조절할 수 있습니다.
