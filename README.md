@@ -65,6 +65,7 @@ python tetris.py
 ```
 
 ---
+## ⚙️ 메인화면
 
 ![image](https://github.com/user-attachments/assets/ef23e7ee-79e0-4241-ab5d-b55d7fec7704)
 
@@ -73,6 +74,12 @@ python tetris.py
 
 - 게임 속도를 1~10 사이에서 조절할 수 있습니다.
 - "Back to Menu" 버튼을 눌러 메인 메뉴로 돌아갈 수 있습니다.
+![image](https://github.com/user-attachments/assets/dc069724-7364-47c6-aa75-7172b2f94b04)
+
+## ⚙️ 게임 실행 화면
+
+![image](https://github.com/user-attachments/assets/eaeecce2-a107-4540-8ce7-84cac025b637)
+![image](https://github.com/user-attachments/assets/b6532589-7529-4fde-a4ff-a7e798ca1999)
 
 ---
 
